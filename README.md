@@ -41,8 +41,8 @@ npm install
 > src/data/settings.json
 ```
 {
-  "name": "DenayRestAPI",
-  "version": "v1.0.0",
+  "name": "IrukaDevs",
+  "version": "v0.1.0",
   "description": "Simple and easy to use API for WhatsApp Bot feature.",
   "header": {
     "status": "Active!"
@@ -58,8 +58,28 @@ npm install
   }
 }
 ```
-> buat .enc.local di root project
 > buat database di Firebase
+> rules RTDB firebase
+```
+{
+  "rules": {
+    ".read": true,
+    ".write": false,
+
+    "recentRequests": {
+      ".read": true,
+      ".write": true,
+      ".indexOn": ["id"]
+    },
+
+    "stats": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
+```
+> buat .enc.local di root project
 ```
 NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyDxxxxxx
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-app.firebaseapp.com
