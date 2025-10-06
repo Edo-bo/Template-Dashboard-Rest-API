@@ -1,0 +1,17 @@
+{
+  "name": "DenayRestAPI",
+  "version": "v1.0.0",
+  "description": "Simple and easy to use API for WhatsApp Bot feature.",
+  "header": {
+    "status": "Active!"
+  },
+  "messages": {
+    "success": "success",
+    "error": "error",
+    "failed": "failed"
+  },
+  "apiSettings": {
+    "creator": "IrukaDevsIndie",
+    "apiKey": ["irukaDep"]
+  }
+}
