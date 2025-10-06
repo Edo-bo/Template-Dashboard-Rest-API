@@ -7,7 +7,7 @@ Template modern berbasis Next.js untuk membangun Dashboard REST API yang cepat, 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bot_Version-v0.1.0-purple?logo=github" alt="Version"/>
+  <img src="https://img.shields.io/badge/Template_Version-v0.1.0-purple?logo=github" alt="Version"/>
   <img src="https://img.shields.io/badge/Next.js-15%2B-green?logo=next.js" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind-CSS-blue?logo=tailwind-css" alt="Tailwind-CSS"/>
   <img src="https://img.shields.io/badge/Database-Firebase-yellow?logo=firebase" alt="Firebase"/>
@@ -86,6 +86,9 @@ npm run dev
    NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-app.firebaseapp.com
 6. Klik Deploy 🚀
 ```
+
+## 🖼 Preview
+  <img src="https://qu.ax/UeFMh.png" alt="Preview"/>
 
 ## 👨‍💻 Sosial Media Kreator
 <p align="center">
