@@ -58,8 +58,7 @@ npm install
   }
 }
 ```
-> buat database di Firebase
-> rules RTDB firebase
+> buat database di Firebase dan rules RTDB firebase
 ```
 {
   "rules": {
@@ -108,7 +107,7 @@ npm run dev
 ```
 
 ## 🖼 Preview
-  <img src="https://qu.ax/UeFMh.png" alt="Preview"/>
+  <img src="https://qu.ax/nFAYR.png" alt="Preview"/>
 
 ## 👨‍💻 Sosial Media Kreator
 <p align="center">
